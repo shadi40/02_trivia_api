@@ -1,7 +1,9 @@
 .vscode
 __pycache__
 venv
-
+/env
+# local development env file
+.env 
 # OS generated files #
 ######################
 .DS_Store
